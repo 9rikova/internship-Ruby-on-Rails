@@ -1,0 +1,19 @@
+b76597d HEAD@{0}: checkout: moving from master to develop
+b76597d HEAD@{1}: checkout: moving from develop to master
+b76597d HEAD@{2}: checkout: moving from master to develop
+b76597d HEAD@{3}: commit (cherry-pick): Переименовал компьютер в робота
+0007448 HEAD@{4}: cherry-pick: Добавим вывод человеческих названий выбранных вариантов
+4cae292 HEAD@{5}: checkout: moving from output_names to master
+3e3e025 HEAD@{6}: rebase -i (finish): returning to refs/heads/output_names
+3e3e025 HEAD@{7}: rebase -i (squash): Добавим вывод человеческих названий выбранных вариантов
+98c1aa4 HEAD@{8}: rebase -i (start): checkout HEAD~2
+6b9b22c HEAD@{9}: checkout: moving from master to output_names
+4cae292 HEAD@{10}: rebase finished: refs/heads/master onto 4cae292cbe0bb9f477161fe105d53103837377d5
+4cae292 HEAD@{11}: rebase: checkout user_interaction
+8cb7ab7 HEAD@{12}: checkout: moving from user_interaction to master
+4cae292 HEAD@{13}: rebase finished: returning to refs/heads/user_interaction
+4cae292 HEAD@{14}: rebase: Разбил приглашение к вводу на несколько строк
+eb40b20 HEAD@{15}: rebase: Добавил взаимодествие с пользователем
+8cb7ab7 HEAD@{16}: rebase: checkout master
+00205e6 HEAD@{17}: checkout: moving from master to user_interaction
+8cb7ab7 HEAD@{18}: clone: from ssh://git@git-intern.digitalleague.ru:2222/internship/git_hw.git
